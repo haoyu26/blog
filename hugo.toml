@@ -1,4 +1,4 @@
-baseURL = 'https://haoyu26.github.io/'
+baseURL = 'https://haoyu26.github.io/blog/'
 languageCode = 'en-us'
-title = 'Gitblog'
+title = 'Git blog'
 theme = "ananke"
